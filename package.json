@@ -16,5 +16,14 @@
   "license": "MIT",
   "dependencies": {
     "cli-color": "^0.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wraithan/status-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wraithan/status-log/issues"
+  },
+  "homepage": "https://github.com/wraithan/status-log"
 }
